@@ -7,3 +7,11 @@ All the sources are simple [_Markdown_](http://daringfireball.net/projects/markd
 - fork the [sources repo](https://github.com/react-framework/gitbook-sources)
 - branch out your contribution
 - submit a _pull request_
+
+## Using GitBook
+
+    npm install -g gitbook-cli
+    cd sources
+    gitbook serve
+    
+    
